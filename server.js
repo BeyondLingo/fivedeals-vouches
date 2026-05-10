@@ -47,4 +47,4 @@ app.listen(process.env.PORT || 3000, () => {
     console.log('API running');
 });
 
-client.login(process.env.MTUwMzE0MDUwNjkwNDAzOTYxOA.GgPckC.sxGaxZjsuO37g6Jml5d129X0XPxttPlu-j3QWw);
+client.login(process.env.DISCORD_TOKEN);
